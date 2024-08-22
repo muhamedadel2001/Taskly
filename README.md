@@ -1,16 +1,24 @@
-# my_asks
+# Taskly
 
-A new Flutter project.
+Todo app using Hive and Flutter Local Notifications 📱📱💻
 
-## Getting Started
+## Features
+Here's a summary of the features with emojis:
 
-This project is a starting point for a Flutter application.
+📅 Add Task: Add tasks on a specific day using Hive local database.
 
-A few resources to get you started if this is your first Flutter project:
+📥 Retrieve Tasks: Retrieve all tasks from Hive.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔔 Send Notifications: Set reminders and receive notifications before an event. Choose reminder time and enable daily repetition at a selected time.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌙 Dark Mode and 🌞 Light Mode: Switch between dark and light themes.
+
+💾 Cache: Implement caching for better performance.
+
+✅ Sign Task as Completed: Mark tasks as completed.
+
+❌ Delete Task: Remove tasks from the list.
+
+
+
+
